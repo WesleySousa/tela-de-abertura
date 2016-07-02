@@ -45,6 +45,12 @@ public class MainActivity extends AppCompatActivity {
             super.run();
             if (runFlag) {
                 String s = String.valueOf(alpha).substring(0,3);
+                runOnUiThread(new Runnable() {
+                    @Override
+                    public void run() {
+                        btnComecar.setEnabled(false);
+                    }
+                });
                 while (!s.equals("1.0")) {
                     runOnUiThread(new Runnable() {
                         @Override
