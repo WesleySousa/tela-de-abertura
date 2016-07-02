@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tela de Abertura</string>
+    <string name="bem_vindo_ao_exampleapp">Bem vindo ao ExampleApp!</string>
+    <string name="come_ar">Começar</string>
+    <string name="tela_de_abertura_ok">Tela de abertura OK.</string>
+</resources>

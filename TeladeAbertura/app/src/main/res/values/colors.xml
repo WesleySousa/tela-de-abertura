@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="background_tela_abertura">#4ba1c9</color>
+    <color name="white">#FFFFFF</color>
+    <color name="cor_botao_clicado">#7ec8ed</color>
+    <color name="cor_botao_normal">#49c1fd</color>
+    <color name="cor_borda_botao_">#b9b9b9</color>
+</resources>
+
